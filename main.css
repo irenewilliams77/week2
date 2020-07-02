@@ -4,3 +4,19 @@ text {
 body {
     background-color: sandybrown;
 }
+.myDiv{
+    border:5px solid red;
+    height: 200 px;
+    width: 200 px;
+margin: 0px auto;
+padding: 30 px;
+}
+.parent{
+    text-align: center;
+    height: 300 px;
+    width: 200 px
+}
+#child{
+    height: 100%;
+    width: 90%
+}
